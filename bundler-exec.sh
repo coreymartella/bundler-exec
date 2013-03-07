@@ -1,8 +1,9 @@
 #!/bin/bash
 
 # Automatically run Ruby scripts with "bundle exec" (but only when appropriate).
+# FORK by coreymartella limited to only core executables (rails,rack,rake,passenger,unicorn)
 # http://effectif.com/ruby/automating-bundle-exec
-# Github: https://github.com/gma/bundler-exec
+# Github: https://github.com/coreymartella/bundler-exec
 
 ## Functions
 
