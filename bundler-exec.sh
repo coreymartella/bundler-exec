@@ -33,30 +33,9 @@ run-with-bundler()
 ## Main program
 
 BUNDLED_COMMANDS="${BUNDLED_COMMANDS:-
-cap
-capify
-cucumber
-foreman
-guard
-haml
-html2haml
-jasmine
-rackup
+passenger
 rake
-rake2thor
-rspec
-ruby
-sass
-sass-convert
-serve
-shotgun
-spec
-spork
-thin
-thor
-tilt
-tt
-turn
+rails
 unicorn
 unicorn_rails
 }"
